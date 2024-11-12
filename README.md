@@ -8,8 +8,7 @@ Lab-04-https://github.com/Tharuni-web/AIML-2025/blob/main/LinearRegression_Lab4.
 
 Lab-05-https://github.com/Tharuni-web/AIML-2025/blob/main/LogisticRegression.ipynb
 
-
-
+Lab-06-https://github.com/Tharuni-web/AIML-2025/blob/main/KNN_lab_6.ipynb
 
 Lab-07-https://github.com/Tharuni-web/AIML-2025/blob/main/SVM.ipynb
 
