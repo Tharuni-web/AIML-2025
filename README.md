@@ -12,7 +12,7 @@ Lab-06-https://github.com/Tharuni-web/AIML-2025/blob/main/KNN_lab_6.ipynb
 
 Lab-07-https://github.com/Tharuni-web/AIML-2025/blob/main/SVM.ipynb
 
-
+Lab-08-https://github.com/Tharuni-web/AIML-2025/blob/main/DecisionTreeLab_08.ipynb
 
 
 
