@@ -14,6 +14,6 @@ Lab-07-https://github.com/Tharuni-web/AIML-2025/blob/main/SVM.ipynb
 
 Lab-08-https://github.com/Tharuni-web/AIML-2025/blob/main/DecisionTreeLab_08.ipynb
 
-
+Lab-09-https://github.com/Tharuni-web/AIML-2025/blob/main/RandomForestLab_09.ipynb
 
 Lab-10-https://github.com/Tharuni-web/AIML-2025/blob/98e5c50de65f5ea13d896d8bb8ca2a3cb103adc5/Kmeans_lab10.ipynb
